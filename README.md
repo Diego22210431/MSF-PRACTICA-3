@@ -1,4 +1,4 @@
-[[Practica 3: Sistema Cardiovascular](https://github.com/Diego22210431/MSF-PRACTICA-3)](https://github.com/Diego22210431/MSF-PRACTICA-3)
+https://github.com/Diego22210431/MSF-PRACTICA-3
 # Modelado de Sistemas Fisiológicos. Práctica 3: Sistema Cardiovascular [Villaseñor22210431]
 
 ## Autor
