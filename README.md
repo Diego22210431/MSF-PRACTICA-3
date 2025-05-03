@@ -16,7 +16,7 @@ con problemas cardiovasculares.
 2. Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
 3.Construir el diagrama de bloques como se indica en el diagrama 5.8.
 4.Diseñar el controlador con Simulink utilizando el bloque PID Controller y la herramienta Tune para sintonizar los valores optimos para cada una de las ganancias kP,kI y kD
-5. Ilustrar el cambio de la presion sobre la distensibilidad arterial [ P p ( t )] en respuesta a la presion arterial de entrada P a ( t ) . Utilice la funcion de entrada Uniform Random Number con la siguiente conoguracion: mn = 0 : 2 V; max = 1 V; seed = 106 ; Sample time =   : 5.
+5. Ilustrar el cambio de la presion sobre la distensibilidad arterial [ P p ( t )] en respuesta a la presion arterial de entrada P a ( t ) . Utilice la funcion de entrada Uniform Random Number con la siguiente conoguracion: mn = 0 : 2 V; max = 1 V; seed = 106 ; Sample time = 5.
 6.Determinar la respuesta a la funcion en el intervalo t 2 [0 ; 15] (segundos) en Python, Simulink y Multisim en lazo abierto y en lazo cerrado con el controlador
 7.Elaborar el diagrama biologico del sistema con BioRender.com.
 8. Discutir los resultados obtenidos en la experimentacion in silico y elaborar el reporte de la pr·ctica.
