@@ -8,7 +8,7 @@ Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, T
 
 ## Objetivos general
 Objetivo.
-Diseñar un controlador que permita formular un protocolo de tratamiento para que un paciente
+Diseñar un controlador que permita formular un protocolo de tratamiento para un paciente
 con problemas cardiovasculares.
 
 ## Actividades
